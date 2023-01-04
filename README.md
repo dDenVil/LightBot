@@ -59,7 +59,7 @@ I recommend you to add [flash and reset buttons](https://github.com/dDenVil/Ligh
   - create the channel 
 - Get your channel Telegram ID from [@username_to_id_bot](https://t.me/username_to_id_bot)
 - Add the bot as admin to the channel
-- Change the code
+- Change the [code](https://github.com/dDenVil/LightBot/blob/main/Code.txt)
 ```c
 // Wifi network station credentials
 #define WIFI_SSID "SSID"   
@@ -75,7 +75,7 @@ int timezone = 2  ;
     - Add board to the Arduino IDE (Tools->Board->Board Manager->ESP8266);
     - Choose correct board and Port (Tools->Board->ESP8266->Generic ESP8266 Module);
     - Install Telegram Bot Library (Sketch->Include library->Add .ZIP library) and other WiFi libraries;
-    - Start the ESP in flash mode (short GPIO0 and GND) and load the code.
+    - Start the ESP in flash mode (short GPIO0 and GND) and load the [code](https://github.com/dDenVil/LightBot/blob/main/Code.txt).
 - Connect everythig up
 - Install it in the case
 
