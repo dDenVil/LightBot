@@ -4,6 +4,8 @@
 Telegram Bot on the ESP to know if you have light at home. Actual for Ukraine.     
 So for the last 2 months I didn't have light for 12h almost every day. There supposed to be some schedule, that sometimes worked.    
 
+![Here's what it looks like](https://github.com/dDenVil/LightBot/blob/main/Readme_assets/look.png?raw=true)
+
 ### Problem
 
 Imagine you don't have light at home and you go out to spend some time until light is goes on. And you don't know when light will go on. You can call your family or neighbor if they are at home, but that is not my case.    
