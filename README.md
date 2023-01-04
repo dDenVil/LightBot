@@ -53,7 +53,7 @@ Yep, there is no sense of using optocoupler, because they have common ground, bu
 
 I recommend you to add [flash and reset buttons](https://github.com/dDenVil/LightBot/blob/main/Readme_assets/buttons.png). This will make your life easier.
 
-### Uploading the code
+### Settings and uploading the code
 
 - Create telergam bot
   - Search for [@BotFather](https://t.me/BotFather)
