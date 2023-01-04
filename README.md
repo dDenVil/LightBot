@@ -45,7 +45,7 @@ There was light for 17 h. 57 m.
 
 ### Scheme 
 
-Yep, there is no sense to use optocoupler, because we have common ground, but I decided to do this universal. With light sleep mode it can work for months without light (which will never happen).
+Yep, there is no sense of using optocoupler, because they have common ground, but I decided to do this universal. With light sleep mode it can work for months without charging (which will never happen).
 
 ![scheme](https://github.com/dDenVil/LightBot/blob/main/Readme_assets/sheme.png)
 
