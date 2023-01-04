@@ -1,5 +1,5 @@
 # LightBot | Telegram Bot on the ESP8265 | Ukraine issues
-### It tells me whether I have light at home or not.
+## It tells me whether I have light at home or not.
 
 Telegram Bot on the ESP to know if you have light at home. Actual for Ukraine.     
 So for the last 2 months I didn't have light for 12h almost every day. There supposed to be some schedule, that sometimes worked.    
