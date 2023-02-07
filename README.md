@@ -47,7 +47,7 @@ There was light for 17 h. 57 m.
 
 ### Scheme 
 
-Yep, there is no sense of using optocoupler, because they have common ground, but I decided to do this universal. You can use instead any npn-transistor, I didn't chech how it works, but it should ;D. With light sleep mode it can work for months without charging (which will never happen).
+Yep, there is no sense of using optocoupler, because they have common ground, but I decided to do this universal. You can use instead any npn-transistor, I didn't check how it works, but it should ;D. With light sleep mode it can work for months without charging (which will never happen).
 
 ![scheme](https://github.com/dDenVil/LightBot/blob/main/Readme_assets/sheme.png)
 
