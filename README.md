@@ -53,6 +53,24 @@ Yep, there is no sense of using optocoupler, because they have common ground, bu
 
 I recommend you to add [flash and reset buttons](https://github.com/dDenVil/LightBot/blob/main/Readme_assets/buttons.png). This will make your life easier.
 
+**List of components**
+
+| Amount | Name | Description |
+|----------------|:---------:|----------------:|
+| 1 | Power Supply 5V |  from old phone charger |
+| 1 | Battery Charger Module TP4056  | with battery protection circuit if battery without low charge protection |
+| 1 | Li-ion Battery 3.7V >200mA  | can be used old phone battery |
+| 1 | AMS1117-3.3V Voltage Regulator  | depends on MC voltage requirements |
+| 1 | ESP-8265 M3  |  any microcontroller with Wi-Fi module|
+| 2 | Tactile Button switch   |  if needed for easer flash and reset|
+| 1 | Optocoupler PC-817  |  any optocoupler or bipolar NPN-transistor |
+| 1 | Resistor 500 Om  |  if optocoupler used |
+| 1 | Resistor 46 Om  |  if optocoupler used, to limit current |
+||||
+| 1 | NPN- transistor  | BC337, 2N2222, 2N3904.... if instead of optocoupler |
+| 1 | Resistor 10k Om  |  if instead of optocoupler, from 4k to 10k|
+| 1 | Resistor 200 Om  |  if instead of optocoupler, to limit current |
+
 ### Settings and uploading the code
 
 - Create telergam bot
