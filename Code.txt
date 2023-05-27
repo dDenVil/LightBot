@@ -60,6 +60,7 @@ void loop() {
 
       if (powerstatus==1) { // -----------------------NO POWER--------------------
       Serial.println("Power is Off. Have to go sleep");
+      delay(5000); // if power off was for 5sec, neglect it
       powercheck();
       light_sleep();
       delay(2000);
