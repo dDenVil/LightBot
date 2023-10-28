@@ -91,7 +91,7 @@ int timezone = 2  ;
 ```
 - Load the code to ESP:
     - Connect to TTL-conventer;
-    - In Arduino IDE go to references and add additional board manager URL `http://arduino.esp8266.com/stable/package_esp8266com_index.json`;
+    - In Arduino IDE go to references and add additional board manager URL `https://arduino.esp8266.com/stable/package_esp8266com_index.json`;
     - Add board to the Arduino IDE (Tools->Board->Board Manager->ESP8266);
     - Choose correct board and Port (Tools->Board->ESP8266->Generic ESP8266 Module);
     - Install Telegram Bot Library (Sketch->Include library->Add .ZIP library) and other WiFi libraries;
