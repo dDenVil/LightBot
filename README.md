@@ -95,7 +95,7 @@ int timezone = 2  ;
     - Add board to the Arduino IDE (Tools->Board->Board Manager->ESP8266);
     - Choose correct board and Port (Tools->Board->ESP8266->Generic ESP8266 Module);
     - Install Telegram Bot Library (Sketch->Include library->Add .ZIP library) and other WiFi libraries;
-    - Start the ESP in flash mode (short GPIO0 and GND) and load the [code](https://github.com/dDenVil/LightBot/blob/main/Code.txt).
+    - Start the ESP in flash mode (short GPIO0 and GND) and load the [code](https://github.com/dDenVil/LightBot/blob/main/LIGHT_BOT_V7_23_07_25.ino). 
 - Connect everythig up
 - Install it in the case
 
