@@ -4,14 +4,14 @@
 #include <time.h>
 
 // Wifi network station credentials
-#define WIFI_SSID_1 "Kos3"
-#define WIFI_PASSWORD_1 "73749901"
-#define WIFI_SSID_2 "KOS0"
-#define WIFI_PASSWORD_2 "73749901"
+#define WIFI_SSID_1 "YOUR_WIFI_NAME1"   
+#define WIFI_PASSWORD_1 "YOUR_WIFI_PASS1"
+#define WIFI_SSID_2 "YOUR_WIFI_NAME2 or YOUR_WIFI_NAME1"   //  it will connect to the best avaliable WIFI
+#define WIFI_PASSWORD_2 "YOUR_WIFI_PASS1 or YOUR_WIFI_PASS2"
 // Telegram BOT Token (Get from Botfather)
-#define BOT_TOKEN "5573019765:AAF1o2HTDDlCewfKIuI5bGZUg8wh5kqZFeQ"
-String chat_id="-1001587332244"; // -1001587332244   my id 376503154
-String first_msg_chat_id = "376503154"; // chat ID to send the first message
+#define BOT_TOKEN "1234567890:Bot1234568954fsdfTocken2312" // your bot token
+String chat_id="YOUR_ID_GROUP"; // ID of your group
+String first_msg_chat_id = "YOUR_ID"; // first start message of Power ON will be send to you only
 
 boolean powerstatus = 0; 
 boolean last_powerstatus = 1;
